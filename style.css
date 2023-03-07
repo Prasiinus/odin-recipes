@@ -1,3 +1,50 @@
-h1 {
+
+
+body 
+{
+background-color: antiquewhite;
+}
+
+.titre
+{
     color: tomato;
+    text-align: center;
+    font-size: 1.5em;
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.entete 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.liste
+{
+   display: flex;
+   justify-content: center;
+   margin: 20px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.elcuisto img
+{
+    width: 200px;
+    height: auto;
+}
+
+.revert
+{
+    image-orientation:flip;
+}
+
+.elcuisto
+{
+    display: flex;
+    justify-content: center;
+}
+div
+{
+border: px solid black;
 }
